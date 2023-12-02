@@ -7,6 +7,6 @@ const responseObj = {
     cold:"acetaminophen or ibuprofen",
     diabetes:"Insuline, Comete",
     als:"Riluzole and edaravone",
-    arthritis:"Biologics, Analgesics",
+    arthritis:"Biologics",
 
 }
